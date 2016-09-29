@@ -1,0 +1,22 @@
+{
+  "name": "autoserve-platform-node-fastcgi",
+  "version": "0.0.1",
+  "description": "autoserve platform for node-fastcgi",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binki/autoserve-platform-node-fastcgi.git"
+  },
+  "keywords": [
+    "autoserve",
+    "fastcgi"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binki/autoserve-platform-node-fastcgi/issues"
+  },
+  "homepage": "https://github.com/binki/autoserve-platform-node-fastcgi#readme",
+  "dependencies": {
+    "node-fastcgi": "^1.3.0"
+  }
+}
